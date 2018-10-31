@@ -1,0 +1,48 @@
+{
+  "id": "31d06f53-8315-45a7-a1f6-f48d51aff5fb",
+  "name": "Exit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": "Thanks for interacting!"
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": "Thanks for interacting!"
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": "Thanks for interacting!"
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": "Thanks for interacting!"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thanks for interacting!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508283975,
+  "fallbackIntent": false,
+  "events": []
+}

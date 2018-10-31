@@ -1,0 +1,231 @@
+{
+  "id": "95d72619-72c7-48a9-b88f-f7bfc2f5556a",
+  "name": "Huracan Information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "This is one of the coolest cars in his garage! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Huracan Performante",
+          "formattedText": "This is his really special Lamb-Boar-Guinuea Pig! It supposedly has done 6:52 around the Nurburguring in Germany!",
+          "image": {
+            "url": "https://i.redd.it/uis9ay57t0hz.jpg",
+            "accessibilityText": "Huracan"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Ghost Black Badge"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Good choice!"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-us",
+          "textToSpeech": "This is one of the coolest cars in his garage! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-us",
+          "title": "Huracan Performante",
+          "formattedText": "This is his really special Lamb-Boar-Guinuea Pig! It supposedly has done 6:52 around the Nurburguring in Germany!",
+          "image": {
+            "url": "https://icdn2.digitaltrends.com/image/dt-geneva-lamborghini-huracan-performante-2-640x427-c.jpg?ver\u003d1"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-us",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Ghost Black Badge"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-ca",
+          "textToSpeech": "This is one of the coolest cars in his garage! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-ca",
+          "title": "Huracan Performante",
+          "formattedText": "This is his really special Lamb-Boar-Guinuea Pig! It supposedly has done 6:52 around the Nurburguring in Germany!",
+          "image": {
+            "url": "https://icdn2.digitaltrends.com/image/dt-geneva-lamborghini-huracan-performante-2-640x427-c.jpg?ver\u003d1"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-ca",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Ghost Black Badge"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-gb",
+          "textToSpeech": "This is one of the coolest cars in his garage! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-gb",
+          "title": "Huracan Performante",
+          "formattedText": "This is his really special Lamb-Boar-Guinuea Pig! It supposedly has done 6:52 around the Nurburguring in Germany!",
+          "image": {
+            "url": "https://icdn2.digitaltrends.com/image/dt-geneva-lamborghini-huracan-performante-2-640x427-c.jpg?ver\u003d1"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-gb",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Ghost Black Badge"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-au",
+          "textToSpeech": "This is one of the coolest cars in his garage! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-au",
+          "title": "Huracan Performante",
+          "formattedText": "This is his really special Lamb-Boar-Guinuea Pig! It supposedly has done 6:52 around the Nurburguring in Germany!",
+          "image": {
+            "url": "https://icdn2.digitaltrends.com/image/dt-geneva-lamborghini-huracan-performante-2-640x427-c.jpg?ver\u003d1"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-au",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Ghost Black Badge"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539656249,
+  "fallbackIntent": false,
+  "events": []
+}

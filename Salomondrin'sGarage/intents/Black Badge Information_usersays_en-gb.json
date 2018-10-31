@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0830e121-cb35-4c34-aded-b85475104f6f",
+    "data": [
+      {
+        "text": "Ghost ",
+        "userDefined": false
+      },
+      {
+        "text": "Black",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Badge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  },
+  {
+    "id": "461f59ea-609c-4dfd-a6b1-a4226fb559d4",
+    "data": [
+      {
+        "text": "Rolls Royce Ghost ",
+        "userDefined": false
+      },
+      {
+        "text": "Black",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Badge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1508283975
+  },
+  {
+    "id": "0b589686-5c4c-4469-8c31-a525cc346393",
+    "data": [
+      {
+        "text": "Tell me about his Rolls Royce Ghost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  },
+  {
+    "id": "a2cfa440-2da2-4b4a-ad6f-57e5a3841a7f",
+    "data": [
+      {
+        "text": "Tell me about his Rolls Royce Ghost ",
+        "userDefined": false
+      },
+      {
+        "text": "Black",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Badge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  },
+  {
+    "id": "6dc428f6-11a2-4a3a-8b2a-3aa6801d1006",
+    "data": [
+      {
+        "text": "Tell me about his ",
+        "userDefined": false
+      },
+      {
+        "text": "Black",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Badge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  }
+]

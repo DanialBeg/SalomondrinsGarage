@@ -1,0 +1,231 @@
+{
+  "id": "214f0e8c-e6e5-4c02-b0fd-90251fc16ff7",
+  "name": "911R Information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Cool! This is his rare driver\u0027s car! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "911R",
+          "formattedText": "Salomondrin\u0027s \"guacamole\" 911R. One of the few manual cars in the garage! A great GT car! This car has since been sold",
+          "image": {
+            "url": "https://i.pinimg.com/originals/e9/85/5e/e9855e42eab8800df7940f4acdab9476.jpg",
+            "accessibilityText": "911R"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Ghost Black Badge"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "Huracan Performante"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-us",
+          "textToSpeech": "Cool! This is his rare driver\u0027s car! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-us",
+          "title": "911R",
+          "formattedText": "Salomondrin\u0027s \"guacamole\" 911R. One of the few manual cars in the garage! A great GT car!",
+          "image": {
+            "url": "https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/15876850_1809265779314486_646998958710718464_n.jpg?ig_cache_key\u003dMTQyMDczNzUwMzAwMzM0NTA1NA%3D%3D.2"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-us",
+          "suggestions": [
+            {
+              "title": "Ghost Black Badge"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "Huracan Performante"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-ca",
+          "textToSpeech": "Cool! This is his rare driver\u0027s car! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-ca",
+          "title": "911R",
+          "formattedText": "Salomondrin\u0027s \"guacamole\" 911R. One of the few manual cars in the garage! A great GT car!",
+          "image": {
+            "url": "https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/15876850_1809265779314486_646998958710718464_n.jpg?ig_cache_key\u003dMTQyMDczNzUwMzAwMzM0NTA1NA%3D%3D.2"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-ca",
+          "suggestions": [
+            {
+              "title": "Ghost Black Badge"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "Huracan Performante"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-gb",
+          "textToSpeech": "Cool! This is his rare driver\u0027s car! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-gb",
+          "title": "911R",
+          "formattedText": "Salomondrin\u0027s \"guacamole\" 911R. One of the few manual cars in the garage! A great GT car!",
+          "image": {
+            "url": "https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/15876850_1809265779314486_646998958710718464_n.jpg?ig_cache_key\u003dMTQyMDczNzUwMzAwMzM0NTA1NA%3D%3D.2"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-gb",
+          "suggestions": [
+            {
+              "title": "Ghost Black Badge"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "Huracan Performante"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-au",
+          "textToSpeech": "Cool! This is his rare driver\u0027s car! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-au",
+          "title": "911R",
+          "formattedText": "Salomondrin\u0027s \"guacamole\" 911R. One of the few manual cars in the garage! A great GT car!",
+          "image": {
+            "url": "https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/15876850_1809265779314486_646998958710718464_n.jpg?ig_cache_key\u003dMTQyMDczNzUwMzAwMzM0NTA1NA%3D%3D.2"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-au",
+          "suggestions": [
+            {
+              "title": "Ghost Black Badge"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "Huracan Performante"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539656813,
+  "fallbackIntent": false,
+  "events": []
+}

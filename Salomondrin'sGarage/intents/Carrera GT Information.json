@@ -1,0 +1,231 @@
+{
+  "id": "6f2e0fd2-ff36-449c-9193-16e839ce961e",
+  "name": "Carrera GT Information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Ok! This has an amazing wrap on it that totally changed the car! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Salomondrin\u0027s Carrera GT",
+          "formattedText": "This is the greatest manual car in the garage! You need focus to drive it or else you\u0027ll be in trouble!",
+          "image": {
+            "url": "https://i.ytimg.com/vi/1cUhDMLf_5U/maxresdefault.jpg",
+            "accessibilityText": "CGT"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-us",
+          "textToSpeech": "Ok! This has an amazing wrap on it that totally changed the car! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-us",
+          "title": "Salomondrin\u0027s Carrera GT",
+          "formattedText": "This is the greatest manual car in the garage! You need focus to drive it or else you\u0027ll be in trouble!",
+          "image": {
+            "url": "https://i.ytimg.com/vi/1cUhDMLf_5U/maxresdefault.jpg"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-us",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-ca",
+          "textToSpeech": "Ok! This has an amazing wrap on it that totally changed the car! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-ca",
+          "title": "Salomondrin\u0027s Carrera GT",
+          "formattedText": "This is the greatest manual car in the garage! You need focus to drive it or else you\u0027ll be in trouble!",
+          "image": {
+            "url": "https://i.ytimg.com/vi/1cUhDMLf_5U/maxresdefault.jpg"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-ca",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-gb",
+          "textToSpeech": "Ok! This has an amazing wrap on it that totally changed the car! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-gb",
+          "title": "Salomondrin\u0027s Carrera GT",
+          "formattedText": "This is the greatest manual car in the garage! You need focus to drive it or else you\u0027ll be in trouble!",
+          "image": {
+            "url": "https://i.ytimg.com/vi/1cUhDMLf_5U/maxresdefault.jpg"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-gb",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-au",
+          "textToSpeech": "Ok! This has an amazing wrap on it that totally changed the car! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-au",
+          "title": "Salomondrin\u0027s Carrera GT",
+          "formattedText": "This is the greatest manual car in the garage! You need focus to drive it or else you\u0027ll be in trouble!",
+          "image": {
+            "url": "https://i.ytimg.com/vi/1cUhDMLf_5U/maxresdefault.jpg"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-au",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539656695,
+  "fallbackIntent": false,
+  "events": []
+}

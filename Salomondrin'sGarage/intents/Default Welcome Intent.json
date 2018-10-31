@@ -1,0 +1,175 @@
+{
+  "id": "d088b2ac-157e-4175-8e7a-5201a3dd1cc4",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-us",
+          "suggestions": [
+            {
+              "title": "Carrera GT"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Welcome to Salomondrin\u0027s Garage! What car would you like to learn about?",
+            "Welcome to Salomondrin\u0027s Garage! Choose a car to learn about!",
+            "Welcome to Salomondrin\u0027s Garage! What car are you inquiring about?",
+            "Welcome to Salomondrin\u0027s Garage! Which current car of Salomondrin\u0027s would you like to know about?"
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-ca",
+          "suggestions": [
+            {
+              "title": "Carrera GT"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": [
+            "Welcome to Salomondrin\u0027s Garage! What car would you like to learn about?",
+            "Welcome to Salomondrin\u0027s Garage! Choose a car to learn about!",
+            "Welcome to Salomondrin\u0027s Garage! What car are you inquiring about?",
+            "Welcome to Salomondrin\u0027s Garage! Which current car of Salomondrin\u0027s would you like to know about?"
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-gb",
+          "suggestions": [
+            {
+              "title": "Carrera GT"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Welcome to Salomondrin\u0027s Garage! What car would you like to learn about?",
+            "Welcome to Salomondrin\u0027s Garage! Choose a car to learn about!",
+            "Welcome to Salomondrin\u0027s Garage! What car are you inquiring about?",
+            "Welcome to Salomondrin\u0027s Garage! Which current car of Salomondrin\u0027s would you like to know about?"
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-au",
+          "suggestions": [
+            {
+              "title": "Carrera GT"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Welcome to Salomondrin\u0027s Garage! What car would you like to learn about?",
+            "Welcome to Salomondrin\u0027s Garage! Choose a car to learn about!",
+            "Welcome to Salomondrin\u0027s Garage! What car are you inquiring about?",
+            "Welcome to Salomondrin\u0027s Garage! Which current car of Salomondrin\u0027s would you like to know about?"
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Carrera GT"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "720S"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Welcome to Salomondrin\u0027s Garage! What car would you like to learn about?",
+            "Welcome to Salomondrin\u0027s Garage! Choose a car to learn about!",
+            "Welcome to Salomondrin\u0027s Garage! What car are you inquiring about?",
+            "Welcome to Salomondrin\u0027s Garage! Which current car of Salomondrin\u0027s would you like to know about?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508283975,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "id": "aea46000-7e98-4f95-8def-1ba2bd566a7b",
+  "name": "Black Badge Information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-us",
+          "textToSpeech": "Nice! This is one of the nicest ones in the garage! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-us",
+          "title": "Salomondrin\u0027s Rolls Royce Ghost",
+          "formattedText": "This is arguably the most luxurious car in the fleet. With 5 mpg the car can be a pain to fill up all the time but the feeling of driving a cloud makes up for it.",
+          "image": {
+            "url": "https://i.ytimg.com/vi/x-M2KR-W-Ss/maxresdefault.jpg"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-us",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "Carrera GT"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-ca",
+          "textToSpeech": "Nice! This is one of the nicest ones in the garage! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-ca",
+          "title": "Salomondrin\u0027s Rolls Royce Ghost",
+          "formattedText": "This is arguably the most luxurious car in the fleet. With 5 mpg the car can be a pain to fill up all the time but the feeling of driving a cloud makes up for it.",
+          "image": {
+            "url": "https://i.ytimg.com/vi/x-M2KR-W-Ss/maxresdefault.jpg"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-ca",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "Carrera GT"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-gb",
+          "textToSpeech": "Nice! This is one of the nicest ones in the garage! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-gb",
+          "title": "Salomondrin\u0027s Rolls Royce Ghost",
+          "formattedText": "This is arguably the most luxurious car in the fleet. With 5 mpg the car can be a pain to fill up all the time but the feeling of driving a cloud makes up for it.",
+          "image": {
+            "url": "https://i.ytimg.com/vi/x-M2KR-W-Ss/maxresdefault.jpg"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-gb",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "Carrera GT"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-au",
+          "textToSpeech": "Nice! This is one of the nicest ones in the garage! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-au",
+          "title": "Salomondrin\u0027s Rolls Royce Ghost",
+          "formattedText": "This is arguably the most luxurious car in the fleet. With 5 mpg the car can be a pain to fill up all the time but the feeling of driving a cloud makes up for it.",
+          "image": {
+            "url": "https://i.ytimg.com/vi/x-M2KR-W-Ss/maxresdefault.jpg"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-au",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "Carrera GT"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Nice! This is one of the nicest ones in the garage! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Salomondrin\u0027s Rolls Royce Ghost",
+          "formattedText": "This is arguably the most luxurious car in the fleet. With 5 mpg the car can be a pain to fill up all the time but the feeling of driving a cloud makes up for it.",
+          "image": {
+            "url": "https://i.ytimg.com/vi/x-M2KR-W-Ss/maxresdefault.jpg"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "Carrera GT"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508283975,
+  "fallbackIntent": false,
+  "events": []
+}

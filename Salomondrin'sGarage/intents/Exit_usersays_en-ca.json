@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fffec194-61c6-442a-a63a-e20a62b26242",
+    "data": [
+      {
+        "text": "Exit App",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  },
+  {
+    "id": "5f2258b0-bda4-4dc9-a742-f7057560a22b",
+    "data": [
+      {
+        "text": "Exit Application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  },
+  {
+    "id": "3bc50438-65e4-42e4-b26c-1a6569ada932",
+    "data": [
+      {
+        "text": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  },
+  {
+    "id": "684292cf-a6f7-4c34-8d34-bac89b6e17f7",
+    "data": [
+      {
+        "text": "Leave",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  }
+]

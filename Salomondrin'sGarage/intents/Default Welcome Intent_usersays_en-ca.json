@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ea2e8656-5ba1-4bf7-9411-b8b14b6361bf",
+    "data": [
+      {
+        "text": "Salomondrin\u0027s Garage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  },
+  {
+    "id": "18a1fa37-cfbc-48e5-b30e-c275d51c5d33",
+    "data": [
+      {
+        "text": "Talk to Salomondrin\u0027s Garage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  },
+  {
+    "id": "6eeabce9-16a1-4a1a-9a18-a0a832f623db",
+    "data": [
+      {
+        "text": "Chat with Salomondrin\u0027s Garage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  }
+]

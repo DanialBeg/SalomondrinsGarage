@@ -1,0 +1,98 @@
+[
+  {
+    "id": "084d4c8a-2c18-4876-8e14-d3c6a9234e58",
+    "data": [
+      {
+        "text": "Rolls Royce Ghost ",
+        "userDefined": false
+      },
+      {
+        "text": "Black",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Badge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1508283975
+  },
+  {
+    "id": "04d4c1a9-ad33-464a-aedd-3279c18ddc4c",
+    "data": [
+      {
+        "text": "Ghost ",
+        "userDefined": false
+      },
+      {
+        "text": "Black",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Badge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  },
+  {
+    "id": "6ffd4196-cf0c-4825-b75d-9cd73a3be8d3",
+    "data": [
+      {
+        "text": "Tell me about his ",
+        "userDefined": false
+      },
+      {
+        "text": "Black",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Badge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  },
+  {
+    "id": "4e08241d-3ccc-467c-a151-083523bb2518",
+    "data": [
+      {
+        "text": "Tell me about his Rolls Royce Ghost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  },
+  {
+    "id": "10de86d5-a751-4e17-b1e2-e0b895f11166",
+    "data": [
+      {
+        "text": "Tell me about his Rolls Royce Ghost ",
+        "userDefined": false
+      },
+      {
+        "text": "Black",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Badge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508283975
+  }
+]

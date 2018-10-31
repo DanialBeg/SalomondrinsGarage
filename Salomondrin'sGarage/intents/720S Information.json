@@ -1,0 +1,231 @@
+{
+  "id": "052892c5-9feb-480f-8728-14d9faaaf17b",
+  "name": "720S Information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Great choice! This is one of the fastest cars he owns! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Alejandro\u0027s 720S",
+          "formattedText": "This is Alejandro\u0027s brand NEW 720S! This car is one of the fastest cars in his garage right now!",
+          "image": {
+            "url": "https://imgur.com/ungLeMc",
+            "accessibilityText": "720S"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "Huracan Peformante"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-us",
+          "textToSpeech": "Great choice! This is one of the fastest cars he owns! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-us",
+          "title": "Alejandro\u0027s 720S",
+          "formattedText": "This is Alejandro\u0027s brand NEW 720S! This car is one of the fastest cars in his garage right now!",
+          "image": {
+            "url": "https://salomondrin.com/image/show/m4GRIQvCCFIhqGElWX04S1QeK96B9ra3nA7Il88rMrV7l2l4PAhPiHoXhSiz98X31evuXEqEw4epYsBdKs4ktYHTl4xY0hQuQWNk4bqqrD33xouAyc5EUe88EkwkGeexgFVPjlwdQaXJZeC6UGTBIB"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-us",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "Huracan Peformante"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-ca",
+          "textToSpeech": "Great choice! This is one of the fastest cars he owns! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-ca",
+          "title": "Alejandro\u0027s 720S",
+          "formattedText": "This is Alejandro\u0027s brand NEW 720S! This car is one of the fastest cars in his garage right now!",
+          "image": {
+            "url": "https://salomondrin.com/image/show/m4GRIQvCCFIhqGElWX04S1QeK96B9ra3nA7Il88rMrV7l2l4PAhPiHoXhSiz98X31evuXEqEw4epYsBdKs4ktYHTl4xY0hQuQWNk4bqqrD33xouAyc5EUe88EkwkGeexgFVPjlwdQaXJZeC6UGTBIB"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-ca",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "Huracan Peformante"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-gb",
+          "textToSpeech": "Great choice! This is one of the fastest cars he owns! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-gb",
+          "title": "Alejandro\u0027s 720S",
+          "formattedText": "This is Alejandro\u0027s brand NEW 720S! This car is one of the fastest cars in his garage right now!",
+          "image": {
+            "url": "https://salomondrin.com/image/show/m4GRIQvCCFIhqGElWX04S1QeK96B9ra3nA7Il88rMrV7l2l4PAhPiHoXhSiz98X31evuXEqEw4epYsBdKs4ktYHTl4xY0hQuQWNk4bqqrD33xouAyc5EUe88EkwkGeexgFVPjlwdQaXJZeC6UGTBIB"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-gb",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "Huracan Peformante"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": []
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en-au",
+          "textToSpeech": "Great choice! This is one of the fastest cars he owns! What would you like to do now? Say Exit to leave the app or continue asking!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en-au",
+          "title": "Alejandro\u0027s 720S",
+          "formattedText": "This is Alejandro\u0027s brand NEW 720S! This car is one of the fastest cars in his garage right now!",
+          "image": {
+            "url": "https://salomondrin.com/image/show/m4GRIQvCCFIhqGElWX04S1QeK96B9ra3nA7Il88rMrV7l2l4PAhPiHoXhSiz98X31evuXEqEw4epYsBdKs4ktYHTl4xY0hQuQWNk4bqqrD33xouAyc5EUe88EkwkGeexgFVPjlwdQaXJZeC6UGTBIB"
+          },
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en-au",
+          "suggestions": [
+            {
+              "title": "Salomondrin\u0027s Garage"
+            },
+            {
+              "title": "Huracan Peformante"
+            },
+            {
+              "title": "911R"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539656640,
+  "fallbackIntent": false,
+  "events": []
+}
